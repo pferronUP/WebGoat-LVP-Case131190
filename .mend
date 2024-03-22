@@ -1,5 +1,8 @@
 {
   "settingsInheritedFrom": "hughcdemocorp-mend/whitesource-config@main",
+  "scanSettings": {
+    "enableReachability": false
+  },
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
